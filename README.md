@@ -3,9 +3,9 @@
 
 ## Who
 
-| [<img src="https://avatars.githubusercontent.com/jonghyunhub" width="100">](https://github.com/jonghyunhub) | [<img src="https://avatars.githubusercontent.com/wellbeing-dough" width="100">](https://github.com/wellbeing-dough) | [<img src="https://avatars.githubusercontent.com/alsduq1117" width="100">](https://github.com/alsduq1117) |
-| :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|                                                추종현                                                 |                                                 김동우                                                  |                                                김민엽                                                 
+| [<img src="https://avatars.githubusercontent.com/jonghyunhub" width="100">](https://github.com/jonghyunhub) | [<img src="https://avatars.githubusercontent.com/wellbeing-dough" width="100">](https://github.com/wellbeing-dough) | [<img src="https://avatars.githubusercontent.com/alsduq1117" width="100">](https://github.com/alsduq1117) | [<img src="https://avatars.githubusercontent.com/JoJeHuni" width="100">](https://github.com/JoJeHuni) 
+| :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: 
+|                                                추종현                                                 |                                                 김동우                                                  |                                                김민엽                                                 |                                                 조제훈                                                  
 
 <br />
 
@@ -26,4 +26,4 @@
 
 | 주차                         | 모임날짜     | 챕터                          |
 |----------------------------|----------|-----------------------------|
-| Week1(23.03.13 ~ 23.03.19) | 23.03.19 | 1. 스프링 데이터 JPA 소개 ~  4. 공통 인터페이스 기능 |
+| Week1(23.06.26 ~ 23.06.30) | 23.06.30 |  |
